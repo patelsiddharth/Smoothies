@@ -1,6 +1,7 @@
 # smoothies
 
 > A Vue.js project
+> Live : https://smoothies-6ef11.web.app/
 
 ## Build Setup
 
